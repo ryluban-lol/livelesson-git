@@ -1,4 +1,4 @@
 ignore_fig.png
-*.png
+output/*.png
 ignore_fig.ping
 
