@@ -11,3 +11,8 @@
 	- 'git diff --staged' : runs git diff between the staging area and last known state
 - ' git diff HEAD~<NUMBER> ': compares HEAd with commit <NUMBER> ago (relative)
 - 'git diff <HASH>: compares HEAD with the commit in <HASH>
+
+-'git restore -- source <HASH OR HEAD~> <File> ': restore file to <HASH OR HEAD>
+		- 'git checkout <HASH OR HEAD~> <FILE> ': restores file to <HASH or HEAD~>
+		- 'git checkout master': go back to master
+		- 'git switch master': go back to master
