@@ -29,3 +29,12 @@
 'git push ': pushes the branch to - 'git push origin main'
 'git remote rm ': removes the remote called
 'git pull ': pulls the branch in to local computer
+
+## branches
+
+- 'git branch <NAME> ': create branch <NAME> where you are (Head)
+- 'git switch <NAME> ': move to the branch <NAME> 
+	-'git checkout <NAME> ': also move to the branch <NAME>
+- 'git switch -c <NAME> ' : create and move to the branch <NAME>
+	- 'git checkout -b <NAME> ': same thing as above 
+
