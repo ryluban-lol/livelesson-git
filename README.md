@@ -1,5 +1,5 @@
-Git Notes
-Working with git locally
+# Git Notes
+## Working with git locally
 'git init': initialize current folder as a git repository
 
 'git clone ': brings the git repo from to current folder
@@ -23,7 +23,7 @@ Working with git locally
 
 -'git restore -- source <HASH OR HEAD~> ': restore file to - 'git checkout <HASH OR HEAD~> ': restores file to <HASH or HEAD~> - 'git checkout master': go back to master - 'git switch master': go back to master
 
-Working with remotes
+## Working with remotes
 'git remote add ': adds the as a remote with the name - is by convention called 'origin'
 'git remote -v': look at all the remotes you have
 'git push ': pushes the branch to - 'git push origin main'
