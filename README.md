@@ -30,7 +30,7 @@
 'git remote rm ': removes the remote called
 'git pull ': pulls the branch in to local computer
 
-## branches
+## Branches
 
 - 'git branch <NAME> ': create branch <NAME> where you are (Head)
 - 'git switch <NAME> ': move to the branch <NAME> 
