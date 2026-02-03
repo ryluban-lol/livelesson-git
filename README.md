@@ -44,4 +44,5 @@
 	- 	- Commits from 'git merge' can be automatically combined 
 -'git rebase <BRANCH> ': incoporate  changes from <BRANCH> into current branch
 
+- main commit 1
 
