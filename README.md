@@ -31,7 +31,8 @@
 'git pull ': pulls the branch in to local computer
 
 
-## BRANCHES - main commit 3
+
+## Branches
 
 - 'git branch <NAME> ': create branch <NAME> where you are (Head)
 - 'git switch <NAME> ': move to the branch <NAME> 
