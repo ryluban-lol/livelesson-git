@@ -63,3 +63,5 @@
 	- to update a PR, we make changes to the branch locally and re "push" 
 - `git fetch`: update your git log without making any changes to your files
 	- `git fetch --prune`: update your log and also remove deleted remote branches
+- `git push -f <WHERE> <WANT> `: force push to the remote <WHERE> the branch <WHAT>
+	- `git push --force-with-lease <WHERE> <WHAT> `: more mindful of collaborators
