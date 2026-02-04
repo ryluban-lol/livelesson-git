@@ -61,3 +61,5 @@
 -  A merge conflict can happen after a PR is issued. 
 	- `git push <WHERE> <WANT> `
 	- to update a PR, we make changes to the branch locally and re "push" 
+- `git fetch`: update your git log without making any changes to your files
+	- `git fetch --prune`: update your log and also remove deleted remote branches
