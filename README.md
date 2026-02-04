@@ -57,3 +57,5 @@
 	- 'stash' is temporary
 	- 'git stash list': see your stashed commits
 	- 'git stash clear': clean up your stashes
+- A `merge` on the remote is called a "pull request" or "merge request"
+	- `git push <WHERE> <WANT> `
