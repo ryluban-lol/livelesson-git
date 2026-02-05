@@ -73,3 +73,8 @@
 - collaborators will then `git clone <URL> ' to get repo on their computer
 - Each person's branch changes are independent from one another 
 - In the settings you can setup branch protection rules to prevent direct changes 
+
+## Git Workflows
+- Adding a collaborator
+- Branching workflow 
+- Git Flow: a special type of branching workflow
